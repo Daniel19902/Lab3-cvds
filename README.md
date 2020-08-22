@@ -78,7 +78,7 @@ Dos opciones:
    | 3 | `tarifaBase = any, diasAntelacion = any, edad = -1` | `ExcepcionParametrosInvalidos` |
    | 4 | `tarifaBase = 100, diasAntelacion = 0, edad = 1` | 95 |
    | 5 | `tarifaBase = 100, diasAntelacion = 20, edad = 18` | 100 |
-   | 6 | `tarifaBase = 100, diasAntelacion = 20, edad = 66` | 92 |
+   | 6 | `tarifaBase = 100, diasAntelacion = 19, edad = 66` | 92 |
    | 7 | `tarifaBase = 100, diasAntelacion = 21, edad = 17` | 80 |
    | 8 | `tarifaBase = 100, diasAntelacion = 21, edad = 65` | 85 |
    | 9 | `tarifaBase = 100, diasAntelacion = 21, edad = 66` | 77 |

@@ -26,11 +26,19 @@
       <scope>test</scope>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-api</artifactId>
       <version>5.7.0-RC1</version>
       <scope>test</scope>
+    </dependency>
+
+    <!-- http://campusvirtual.escuelaing.edu.co/moodle/pluginfile.php/142929/mod_assign/intro/aerodescuentos-1.0.0.jar -->
+    <dependency>
+      <groupId>edu.eci.cvds</groupId>
+      <artifactId>aerodescuentos</artifactId>
+      <version>1.0.0</version>
     </dependency>
   </dependencies>
 
