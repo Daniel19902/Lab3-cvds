@@ -1,5 +1,5 @@
 # Lab3-cvds
-Edward Daniel Porras Martin
+Edward Daniel Porras Martin\
 Daniel Felipe Hernández Mancipe
 
 # Clases de equivalencia
